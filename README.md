@@ -1,1 +1,1 @@
-"recode it for yourself." 
+recode it for yourself.
